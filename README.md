@@ -1,8 +1,7 @@
 # Hi, I'm Md Shakil Islam! 👋
 
-### Front-End Developer | MERN Stack Developer
+### Front-End Developer | MERN Stack Developer  <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
-## About Me
 
 - 💻 I'm a Web Developer.
 - 🌱 Currently learning React.js, Node.js and TypeScript.
