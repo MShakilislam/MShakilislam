@@ -28,8 +28,6 @@
   
 
 ### Libraries & Tools
-- Express.js
-- MongoDB
 - Axios
 - Recharts
 - Git
@@ -37,7 +35,8 @@
 - VS Code
 
 ## Currently Learning
-
+- Express.js
+- MongoDB
 - TypeScript
 - Advanced JavaScript
 - Advanced React.js
